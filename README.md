@@ -14,8 +14,8 @@ Explore customer retention patterns and train a logistic regression classifier t
 ## Run locally
 
 ```bash
-git clone https://github.com/abiy8/codeclause_task1.git
-cd codeclause_task1
+git clone https://github.com/abiy8/telecom-churn-prediction.git
+cd telecom-churn-prediction
 python -m venv .venv
 # Activate .venv for your operating system.
 pip install jupyter pandas numpy scikit-learn matplotlib seaborn
